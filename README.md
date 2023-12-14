@@ -1,4 +1,6 @@
-### Hi there 👋
+### hola soy Chris 👋
+![52d2911f95d4421490425eb9e8cef526](https://github.com/ChrisQuin1103/ChrisQuin1103/assets/151979368/913fd7b3-e1c4-4680-b1f6-82669029e533)
+
 
 <!--
 **ChrisQuin1103/ChrisQuin1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
